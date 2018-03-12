@@ -108,4 +108,6 @@ def fuck_you():
     window.exitonclick()
 
 
-fuck_you()
+draw_square()
+
+print 'My bae Hannah I love u'
